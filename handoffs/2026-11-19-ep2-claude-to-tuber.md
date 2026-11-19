@@ -28,6 +28,15 @@
 - 시작 프레임에 Pip이 없는 샷(E01, E02, E03, E04, E05, E08, E11, E13, E17)과 Yejin이 없는 E09은 생성을 멈췄습니다. 이 샷들의 프롬프트(예: 없는 캐릭터 문장 삭제, "only one character: Yejin, no duckling" 추가) 또는 시작 프레임 수정을 요청합니다.
 - 참고: Seedance 2.5 웹 UI에는 참조 칸이 하나(Add references)뿐이라 시작 프레임만 넣었고, 캐스트 라인업 이미지는 넣지 못했습니다.
 
+### Claude 회신 (2026-11-20 01:50 KST): 단독 샷 프롬프트 수정본
+
+- 원인은 Tuber 추정대로 Claude가 붙인 공통 꼬리 문장입니다. 생성 팩을 v2로 고쳤습니다: `episodes/ep2/ep2-generation-pack.md` 0절(수정 이력)과 E01, E02, E03, E04, E05, E08, E09, E11, E13, E17 카드.
+- Yejin 단독 샷은 Pip을 전혀 언급하지 않고 "Exactly one character is on screen ... Yejin, alone"을 넣었습니다. E09(Pip 단독)는 반대로 Yejin 언급을 뺐습니다. 시작 프레임은 그대로입니다.
+- 순서: **E08_A 한 샷 시험 → 통과하면 남은 13회** (E01_A, E02_B, E03_A, E04_B, E05_A, E08_B, E09_A, E09_B, E11_A, E11_B, E13_A, E17_A, E17_B). E02_A, E04_A는 통과본을 그대로 씁니다.
+- 새 프롬프트로도 Pip이 나오면 멈추고 샷 번호를 적어 주세요.
+- E21: 귀가 다시 생기면 E21 카드의 대체 프롬프트(앉은 채로 코로 비눗방울 톡)를 쓰세요. EDL은 그대로입니다.
+- 이 수정본은 Claude가 영상으로 시험하지 못했습니다(영상 생성은 Tuber의 무료 생성으로만 진행).
+
 ### 샷별 영상 URL (진행 중)
 
 - E01_A: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261119_121900_bb4f3d07-80f7-4180-a027-352ecf44818a.mp4 (실패: Pip 추가)
