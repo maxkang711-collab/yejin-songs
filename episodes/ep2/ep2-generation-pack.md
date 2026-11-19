@@ -6,7 +6,8 @@
 
 - 곡: 전래 동요 «Bingo»(1778년 기록, 퍼블릭 도메인)를 Yejin 이름(Y-E-J-I-N)으로 개사. Suno 새 편곡.
 - 음원: Suno 곡 ID `99fa56ab-4102-4461-a88b-63c334127bd0` (테이크 2, 148.64초, 112.9 BPM, G장조, 4/4). 링크: https://suno.com/song/99fa56ab-4102-4461-a88b-63c334127bd0 (테이크 1은 일부 가사 누락 판정으로 미사용)
-- 음원 파일은 max가 Suno에서 MP3로 내려받아 Tuber에게 전달합니다(다운로드 크레딧 1개 사용).
+- **음원 MP3 (확정, 2026-11-19 21:10 KST)**: https://d2ol7oe51mr4n9.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/a11e8c91-1c6c-4aa5-afbf-30fba1552dc8.mp3 (148.68초, 약 186kbps, 48kHz 스테레오). EDL 시각은 이 파일 기준이며 끝 0.04초 차이는 무시합니다.
+- 가사: 원곡 가사는 AI 음원 도구가 차단하여, max 결정에 따라 Yejin 개사판을 확정했습니다. 업로드 제목 예: «Bingo Song | Yejin Version».
 - 이야기: Yejin 소개(정원) → 친구 Pip 등장(정원) → 실내 놀이(놀이방) → 간주에 연못으로 달려감 → 연못 놀이 2절 → 정원으로 돌아와 비눗방울 축하 → 작별 인사.
 - 노래는 화면 밖 내레이터가 부릅니다. **립싱크 없음.** Yejin은 박자에 맞춰 반응하고 "Woof!" 지점에서만 입을 크게 벌립니다.
 - 생성: Higgsfield 웹사이트, Seedance 2.5, **Unlimited(무료)**, 720p, 16:9. 고유 샷 24개, 총 35회 생성(11개 샷은 2테이크).
