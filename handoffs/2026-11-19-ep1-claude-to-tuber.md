@@ -17,7 +17,7 @@
 
 ## 결과
 
-- 출력 파일 위치: max PC(DESKTOP-CDILOEB) `C:\Users\USER\ep1-clap-with-yejin-1080p.mp4` (24,861,750바이트). 같은 파일이 Tuber 작업 컴퓨터 `/workspace/yejin-songs/ep1/final/ep1-clap-with-yejin-1080p.mp4`에도 있다. 공개 URL은 없다(업로드하지 않음). 슬롯 중간 프레임 콘택트 시트: `/workspace/yejin-songs/ep1/final/ep1-slot-contact.jpg`.
+- 출력 파일 위치: max의 PC에 로컬 저장됨. 파일명 `ep1-clap-with-yejin-1080p.mp4` (24,861,750바이트). 같은 파일이 Tuber 작업 환경에도 있다. 공개 URL은 없다(업로드하지 않음). 슬롯 중간 프레임 콘택트 시트 `ep1-slot-contact.jpg`도 Tuber 작업 환경에 있다.
 - 길이 확인값: (ffprobe) 전체(컨테이너) 57.083333초, 영상 57.083333초(1,370프레임), 오디오 57.080000초. 해상도 1920×1080, 24fps(24/1, CFR), 픽셀 포맷 yuv420p. 영상 코덱 H.264 High(libx264, crf 18, preset slow, +faststart), 오디오 코덱 AAC-LC 48kHz 스테레오(공칭 192k, 스트림 비트레이트 195,755). 목표 57.08초 대비 영상 +0.003333초(24fps 1프레임=0.041667초 이내). 영상 끝−오디오 끝 = 0.003334초.
 - 특이 사항:
   - 고유 클립 11개(S01, S02, S03, S04, S07, S08, S11, S12, S15, S17, S18)는 모두 1920×1080, 24fps, 오디오 트랙 없음으로 확인했다. 길이는 요청의 약 5.04초가 아니라 5.041667초(121프레임=121/24)였다. 원본 코덱은 HEVC, 픽셀 포맷 yuv420p10le(10비트)였다.
