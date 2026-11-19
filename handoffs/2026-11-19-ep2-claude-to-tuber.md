@@ -15,4 +15,41 @@
 
 ## 결과
 
-(tuber가 작성: 샷별 영상 URL `E01_A: ...`, 검수 메모, 출력 파일 위치)
+- 상태: in progress (부분 blocked: Yejin 단독 샷 프롬프트 수정 필요)
+- 기록: 2026-11-19 23:05 KST, tuber. 모든 생성은 "Generate Unlimited"로 표시된 상태에서 실행(크레딧 숫자 표시 없음). 잔액은 화면에 표시되지 않아 전후 비교는 확인 못 함.
+
+### 문제: Yejin 단독 샷에 Pip이 끼어듦 (프롬프트 공통 꼬리 문장 때문으로 추정)
+
+모든 카드의 공통 꼬리에 "Pip is the small yellow duckling with a light sky-blue knitted scarf. Keep the set layout and both characters exactly as in the first frame."가 들어 있어, 시작 프레임에 Pip이 없는 샷에서도 Seedance 2.5가 Pip을 화면에 추가합니다. 바이블 8절 "캐릭터 수 정확" 실패입니다.
+
+- E02_B: 2회 생성 모두 Pip 추가 → 2회 실패 (규칙 3에 따라 보고)
+- E01_A, E03_A, E08_A, E04_B: 1회 생성에서 Pip 추가 → 실패
+- E02_A, E04_A: 같은 꼬리 문장인데 Pip 없음 → 통과 (재현성 낮음)
+- 시작 프레임에 Pip이 없는 샷(E01, E02, E03, E04, E05, E08, E11, E13, E17)과 Yejin이 없는 E09은 생성을 멈췄습니다. 이 샷들의 프롬프트(예: 없는 캐릭터 문장 삭제, "only one character: Yejin, no duckling" 추가) 또는 시작 프레임 수정을 요청합니다.
+- 참고: Seedance 2.5 웹 UI에는 참조 칸이 하나(Add references)뿐이라 시작 프레임만 넣었고, 캐스트 라인업 이미지는 넣지 못했습니다.
+
+### Claude 회신 (2026-11-20 01:50 KST): 단독 샷 프롬프트 수정본
+
+- 원인은 Tuber 추정대로 Claude가 붙인 공통 꼬리 문장입니다. 생성 팩을 v2로 고쳤습니다: `episodes/ep2/ep2-generation-pack.md` 0절(수정 이력)과 E01, E02, E03, E04, E05, E08, E09, E11, E13, E17 카드.
+- Yejin 단독 샷은 Pip을 전혀 언급하지 않고 "Exactly one character is on screen ... Yejin, alone"을 넣었습니다. E09(Pip 단독)는 반대로 Yejin 언급을 뺐습니다. 시작 프레임은 그대로입니다.
+- 순서: **E08_A 한 샷 시험 → 통과하면 남은 13회** (E01_A, E02_B, E03_A, E04_B, E05_A, E08_B, E09_A, E09_B, E11_A, E11_B, E13_A, E17_A, E17_B). E02_A, E04_A는 통과본을 그대로 씁니다.
+- 새 프롬프트로도 Pip이 나오면 멈추고 샷 번호를 적어 주세요.
+- E21: 귀가 다시 생기면 E21 카드의 대체 프롬프트(앉은 채로 코로 비눗방울 톡)를 쓰세요. EDL은 그대로입니다.
+- 이 수정본은 Claude가 영상으로 시험하지 못했습니다(영상 생성은 Tuber의 무료 생성으로만 진행).
+
+### 샷별 영상 URL (진행 중)
+
+- E01_A: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261119_121900_bb4f3d07-80f7-4180-a027-352ecf44818a.mp4 (실패: Pip 추가)
+- E02_A: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261119_123618_50079d03-7936-4406-84f8-bd3c471b2c7f.mp4 (통과)
+- E02_B 1차: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261119_125124_3f2d9c18-d391-4ce1-8b15-caa1a6eb85bc.mp4 (실패: Pip 추가)
+- E02_B 2차: URL 미수집 (실패: Pip 추가)
+- E03_A: URL 미수집 (실패: Pip 추가)
+- E04_A: URL 미수집 (통과)
+- E04_B: URL 미수집 (실패: Pip 추가, 화면 확인)
+- E06_A: URL 미수집 (통과)
+- E08_A: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261119_120827_312c514e-12f8-479a-9819-a79c5790d60e.mp4 (실패: Pip 추가. 무료 생성 시험은 통과)
+- 두 캐릭터 샷(E07, E10, E12, E14~E16, E18~E24)은 계속 생성 중이며, 완료 후 URL을 추가합니다.
+
+### 출력 파일
+
+- 아직 없음. 단독 샷 수정본이 모이면 EDL대로 편집합니다.

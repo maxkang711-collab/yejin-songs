@@ -147,6 +147,7 @@
 - 입력: 샷별 **시작 프레임 이미지**(Claude가 GPT Image 2.6로 미리 생성·검수) + 가능하면 Yejin 참조 이미지.
 - 프롬프트 공통 꼬리말(모든 샷에 붙임):
   `Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, gentle camera. Yejin is a round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person. Keep the set layout exactly as in the first frame. No text, no letters, no logos, no extra characters.`
+- **프롬프트에는 시작 프레임에 있는 캐릭터만 적습니다.** 화면에 없는 캐릭터를 이름이나 설명으로 언급하면 모델이 그려 넣습니다(2화에서 Yejin 단독 샷에 Pip이 끼어든 원인). 단독 샷에는 `Exactly one character is on screen from the first frame to the last`를 넣고, 공통 꼬리말의 Pip 문장은 두 캐릭터 샷에만 붙입니다.
 - 프롬프트는 **동작 하나 + 카메라 하나**만 씁니다. 동작은 "크게, 세 번" 처럼 횟수를 적습니다.
 - 검수 기준(통과해야 편집에 사용): 귀 없음, 옷 없음, 사람처럼 서지 않음, 글자 없음, 캐릭터 수 정확, 세트 배치 유지, 손발 녹아내림 없음.
 

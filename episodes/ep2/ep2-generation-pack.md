@@ -2,6 +2,15 @@
 
 작성: 2026-11-19 (KST), Claude. 규칙서: [`bible/01-style-production-bible.md`](../../bible/01-style-production-bible.md)
 
+## 0. 수정 이력
+
+- **v2 (2026-11-20 01:50 KST), 단독 샷 프롬프트 수정**: Yejin 단독 샷에 Pip이 끼어드는 문제는 Claude가 모든 카드에 같은 꼬리 문장(Pip 설명 + "both characters")을 붙인 탓입니다. 시작 프레임에 없는 캐릭터를 프롬프트가 이름으로 불러서 모델이 그려 넣었습니다.
+  - 수정한 카드: **E01, E02, E03, E04, E05, E08, E11, E13, E17**(Yejin 단독, Pip 언급 삭제)와 **E09**(Pip 단독, Yejin 언급 삭제). 각 카드의 프롬프트를 통째로 다시 복사해 주세요.
+  - 바뀌지 않은 카드: 두 캐릭터 샷(E06, E07, E10, E12, E14~E16, E18~E24). 이미 통과한 클립은 그대로 씁니다.
+  - 이미 통과한 E02_A, E04_A는 다시 만들지 않습니다. 남은 단독 샷 생성은 **14회**입니다: E01_A, E02_B, E03_A, E04_B, E05_A, E08_A, E08_B, E09_A, E09_B, E11_A, E11_B, E13_A, E17_A, E17_B.
+  - 순서: 먼저 **E08_A 한 샷만** 새 프롬프트로 시험하고, Pip이 안 나오면 나머지를 진행합니다. 또 나오면 멈추고 보고해 주세요(Claude가 다른 방법으로 고칩니다).
+  - E21: 귀가 생기는 문제가 반복되면 E21 카드 아래의 대체 프롬프트(깡충 동작 없음)를 쓰세요.
+
 ## 1. 요약
 
 - 곡: 전래 동요 «Bingo»(1778년 기록, 퍼블릭 도메인)를 Yejin 이름(Y-E-J-I-N)으로 개사. Suno 새 편곡.
@@ -30,15 +39,15 @@
 
 `테이크` 열이 `A+B`인 샷은 같은 설정으로 **2번** 생성합니다(B는 재사용 구간용). 총 생성 횟수: 35회.
 
-### E01 · GARDEN · WIDE→밀기 · 10초 · 테이크 B
+### E01 · GARDEN · WIDE→밀기 · 10초 · 테이크 A
 
 - 내용: 오프닝: 개집에서 빼꼼, 나와서 앉기
 - 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261119_100630_718c5c7c-8aa8-4958-af36-c85867f6826a.png
 - 파일명 규칙: `ep2_E01_A.mp4`
-- 프롬프트:
+- 프롬프트 (v2, 2026-11-20 단독 샷 수정):
 
 ```
-Yejin peeks out of the doghouse door, then trots out happily on all four legs along the stepping stones to the center of the lawn, sits down facing the camera and wags her tail. Camera: static wide shot, then a very slow push-in. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Pip is the small yellow duckling with a light sky-blue knitted scarf. Keep the set layout and both characters exactly as in the first frame. No text, no letters, no logos, no extra characters.
+Yejin peeks out of the doghouse door, then trots out happily on all four legs along the stepping stones to the center of the lawn, sits down facing the camera and wags her tail. Camera: static wide shot, then a very slow push-in. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Exactly one character is on screen from the first frame to the last: Yejin, alone. Nobody and nothing else enters the frame. Keep the set layout and Yejin exactly as in the first frame. No text, no letters, no logos.
 ```
 
 ### E02 · GARDEN · CU 정지 · 5초 · 테이크 A+B
@@ -46,10 +55,10 @@ Yejin peeks out of the doghouse door, then trots out happily on all four legs al
 - 내용: Yejin 얼굴, 박자 고개 까딱 → 멍!
 - 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261119_100629_d230eac3-205b-4a32-a6af-0c5305052784.png
 - 파일명 규칙: `ep2_E02_A.mp4`, `ep2_E02_B.mp4`
-- 프롬프트:
+- 프롬프트 (v2, 2026-11-20 단독 샷 수정):
 
 ```
-Yejin looks at the camera and bobs her head left and right in a steady happy rhythm three times, then opens her mouth wide in one happy bark and ends with a big smile. Camera: static close-up. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Pip is the small yellow duckling with a light sky-blue knitted scarf. Keep the set layout and both characters exactly as in the first frame. No text, no letters, no logos, no extra characters.
+Yejin looks at the camera and bobs her head left and right in a steady happy rhythm three times, then opens her mouth wide in one happy bark and ends with a big smile. Camera: static close-up. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Exactly one character is on screen from the first frame to the last: Yejin, alone. Nobody and nothing else enters the frame. Keep the set layout and Yejin exactly as in the first frame. No text, no letters, no logos.
 ```
 
 ### E03 · GARDEN · MED 밀기 · 5초 · 테이크 A
@@ -57,10 +66,10 @@ Yejin looks at the camera and bobs her head left and right in a steady happy rhy
 - 내용: 'There is a puppy' 몸 흔들기
 - 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261119_100630_166baa16-8272-4fe5-a17a-e6bd8cba142b.png
 - 파일명 규칙: `ep2_E03_A.mp4`
-- 프롬프트:
+- 프롬프트 (v2, 2026-11-20 단독 샷 수정):
 
 ```
-Yejin sways her body gently side to side in a steady rhythm, her fluffy fur bouncing softly, smiling at the camera. Camera: slow push-in. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Pip is the small yellow duckling with a light sky-blue knitted scarf. Keep the set layout and both characters exactly as in the first frame. No text, no letters, no logos, no extra characters.
+Yejin sways her body gently side to side in a steady rhythm, her fluffy fur bouncing softly, smiling at the camera. Camera: slow push-in. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Exactly one character is on screen from the first frame to the last: Yejin, alone. Nobody and nothing else enters the frame. Keep the set layout and Yejin exactly as in the first frame. No text, no letters, no logos.
 ```
 
 ### E04 · GARDEN · MED 로우앵글 · 5초 · 테이크 A+B
@@ -68,10 +77,10 @@ Yejin sways her body gently side to side in a steady rhythm, her fluffy fur boun
 - 내용: 'Yejin is her name-o' 자랑 포즈
 - 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261119_100629_6e432a63-a3bb-45e0-86bd-fa8046a8006e.png
 - 파일명 규칙: `ep2_E04_A.mp4`, `ep2_E04_B.mp4`
-- 프롬프트:
+- 프롬프트 (v2, 2026-11-20 단독 샷 수정):
 
 ```
-Yejin sits proudly in front of her doghouse, puffs up her fluffy chest, nods once and wags her tail fast while the yellow star above her twinkles. Camera: static low angle with a tiny push-in. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Pip is the small yellow duckling with a light sky-blue knitted scarf. Keep the set layout and both characters exactly as in the first frame. No text, no letters, no logos, no extra characters.
+Yejin sits proudly in front of her doghouse, puffs up her fluffy chest, nods once and wags her tail fast while the yellow star above her twinkles. Camera: static low angle with a tiny push-in. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Exactly one character is on screen from the first frame to the last: Yejin, alone. Nobody and nothing else enters the frame. Keep the set layout and Yejin exactly as in the first frame. No text, no letters, no logos.
 ```
 
 ### E05 · GARDEN · CU 3/4 · 5초 · 테이크 A
@@ -79,10 +88,10 @@ Yejin sits proudly in front of her doghouse, puffs up her fluffy chest, nods onc
 - 내용: 고개 돌려 카메라 보고 갸웃·끄덕
 - 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261119_100631_2012d1dc-02e4-4d95-833f-b306e43eac20.png
 - 파일명 규칙: `ep2_E05_A.mp4`
-- 프롬프트:
+- 프롬프트 (v2, 2026-11-20 단독 샷 수정):
 
 ```
-Yejin turns her head from the left to face the camera, tilts her head cutely, then nods happily twice. Camera: static close-up. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Pip is the small yellow duckling with a light sky-blue knitted scarf. Keep the set layout and both characters exactly as in the first frame. No text, no letters, no logos, no extra characters.
+Yejin turns her head from the left to face the camera, tilts her head cutely, then nods happily twice. Camera: static close-up. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Exactly one character is on screen from the first frame to the last: Yejin, alone. Nobody and nothing else enters the frame. Keep the set layout and Yejin exactly as in the first frame. No text, no letters, no logos.
 ```
 
 ### E06 · GARDEN · WIDE 2S · 5초 · 테이크 A
@@ -112,10 +121,10 @@ Yejin and Pip look at each other, then both turn to the camera and nod happily t
 - 내용: Yejin 앞발 박수 3번
 - 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261119_100629_49c669d5-aa1c-49ae-be09-5a2f3ff62df2.png
 - 파일명 규칙: `ep2_E08_A.mp4`, `ep2_E08_B.mp4`
-- 프롬프트:
+- 프롬프트 (v2, 2026-11-20 단독 샷 수정):
 
 ```
-Yejin claps her two fluffy front paws together three times in a clear steady rhythm, paws touching in front of her chest, smiling at the camera. Camera: static close-up. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Pip is the small yellow duckling with a light sky-blue knitted scarf. Keep the set layout and both characters exactly as in the first frame. No text, no letters, no logos, no extra characters.
+Yejin claps her two fluffy front paws together three times in a clear steady rhythm, paws touching in front of her chest, smiling at the camera. Camera: static close-up. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Exactly one character is on screen from the first frame to the last: Yejin, alone. Nobody and nothing else enters the frame. Keep the set layout and Yejin exactly as in the first frame. No text, no letters, no logos.
 ```
 
 ### E09 · GARDEN · CU Pip · 5초 · 테이크 A+B
@@ -123,10 +132,10 @@ Yejin claps her two fluffy front paws together three times in a clear steady rhy
 - 내용: Pip 날개 박수 3번
 - 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261119_100629_486f2b9b-e77e-487f-969c-f7ad3cd53d5b.png
 - 파일명 규칙: `ep2_E09_A.mp4`, `ep2_E09_B.mp4`
-- 프롬프트:
+- 프롬프트 (v2, 2026-11-20 단독 샷 수정):
 
 ```
-Pip claps both little wings together three times in a clear steady rhythm in front of the chest, beak open in a happy smile. Camera: static close-up. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Pip is the small yellow duckling with a light sky-blue knitted scarf. Keep the set layout and both characters exactly as in the first frame. No text, no letters, no logos, no extra characters.
+Pip claps both little wings together three times in a clear steady rhythm in front of the chest, beak open in a happy smile. Camera: static close-up. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Pip is the small yellow duckling with a light sky-blue knitted scarf. Exactly one character is on screen from the first frame to the last: Pip, alone. Nobody and nothing else enters the frame. Keep the set layout and Pip exactly as in the first frame. No text, no letters, no logos.
 ```
 
 ### E10 · PLAYROOM · WIDE 2S · 5초 · 테이크 A
@@ -145,10 +154,10 @@ Pip bounces up and down twice on the soft mint-green cushion like a trampoline; 
 - 내용: 실로폰 치기
 - 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261119_100628_4ee3d6da-ea5a-4a7d-b48a-e031c98fde57.png
 - 파일명 규칙: `ep2_E11_A.mp4`, `ep2_E11_B.mp4`
-- 프롬프트:
+- 프롬프트 (v2, 2026-11-20 단독 샷 수정):
 
 ```
-Yejin taps the colorful xylophone bars with one front paw, three gentle taps from left to right, then looks up at the camera delighted. Camera: static. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Pip is the small yellow duckling with a light sky-blue knitted scarf. Keep the set layout and both characters exactly as in the first frame. No text, no letters, no logos, no extra characters.
+Yejin taps the colorful xylophone bars with one front paw, three gentle taps from left to right, then looks up at the camera delighted. Camera: static. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Exactly one character is on screen from the first frame to the last: Yejin, alone. Nobody and nothing else enters the frame. Keep the set layout and Yejin exactly as in the first frame. No text, no letters, no logos.
 ```
 
 ### E12 · PLAYROOM · MED 2S 측면 · 5초 · 테이크 A
@@ -167,10 +176,10 @@ Yejin and Pip clap together three times in a steady rhythm, paws and wings touch
 - 내용: Yejin 박수 3번(실내)
 - 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261119_100713_28feec3d-14fb-438d-a3d2-50b5439ab5bd.png
 - 파일명 규칙: `ep2_E13_A.mp4`
-- 프롬프트:
+- 프롬프트 (v2, 2026-11-20 단독 샷 수정):
 
 ```
-Yejin claps her front paws together three times in a steady rhythm, then smiles at the camera. Camera: static close-up. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Pip is the small yellow duckling with a light sky-blue knitted scarf. Keep the set layout and both characters exactly as in the first frame. No text, no letters, no logos, no extra characters.
+Yejin claps her front paws together three times in a steady rhythm, then smiles at the camera. Camera: static close-up. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Exactly one character is on screen from the first frame to the last: Yejin, alone. Nobody and nothing else enters the frame. Keep the set layout and Yejin exactly as in the first frame. No text, no letters, no logos.
 ```
 
 ### E14 · PLAYROOM · MED 무대 밀기 · 5초 · 테이크 A
@@ -211,10 +220,10 @@ Pip hops on the lily pad, lands with a tiny splash, wobbles and laughs; Yejin on
 - 내용: 연못가 Yejin 얼굴, 박자 끄덕
 - 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261119_100714_c7577519-c34f-41b3-b114-6655a3759bd7.png
 - 파일명 규칙: `ep2_E17_A.mp4`, `ep2_E17_B.mp4`
-- 프롬프트:
+- 프롬프트 (v2, 2026-11-20 단독 샷 수정):
 
 ```
-Yejin looks at the camera, bobs her head in rhythm and blinks happily while the water sparkles behind her. Camera: very slow push-in. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Pip is the small yellow duckling with a light sky-blue knitted scarf. Keep the set layout and both characters exactly as in the first frame. No text, no letters, no logos, no extra characters.
+Yejin looks at the camera, bobs her head in rhythm and blinks happily while the water sparkles behind her. Camera: very slow push-in. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Exactly one character is on screen from the first frame to the last: Yejin, alone. Nobody and nothing else enters the frame. Keep the set layout and Yejin exactly as in the first frame. No text, no letters, no logos.
 ```
 
 ### E18 · POND · MED 2S · 5초 · 테이크 A+B
@@ -259,6 +268,12 @@ Yejin and Pip on the bridge bounce gently in rhythm and nod together twice, smil
 
 ```
 Shiny soap bubbles float down; from her sitting position Yejin springs up off her short hind legs into a small soft hop to boop a bubble with her nose and it pops into sparkles, then she lands softly; Pip flaps both wings happily. Camera: static wide shot, then a very slow push-in. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a ball-shaped head and no visible ears, no clothing; she never stands upright like a person and never walks on two legs. Pip is the small yellow duckling with a light sky-blue knitted scarf. Keep the set layout and both characters exactly as in the first frame. No text, no letters, no logos, no extra characters.
+```
+
+- **대체 프롬프트 (E21에서 귀가 또 생기면 이것으로 교체, 깡충 동작 제거)**:
+
+```
+Shiny soap bubbles float down; Yejin stays sitting, stretches her round head up and gently boops one bubble with her black nose, it pops into sparkles and she blinks and smiles; Pip flaps both wings happily. Camera: static wide shot, then a very slow push-in. Soft clay-and-plush 3D preschool animation, warm late-morning light from upper left, low contrast, smooth gentle motion. Yejin is the round fluffy white puppy with a perfectly round ball-shaped head and no visible ears, no clothing; she stays seated on the grass the whole time. Pip is the small yellow duckling with a light sky-blue knitted scarf. Keep the set layout and both characters exactly as in the first frame. No text, no letters, no logos, no extra characters.
 ```
 
 ### E22 · GARDEN · MED 2S · 5초 · 테이크 A+B
