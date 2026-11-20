@@ -57,3 +57,31 @@ A real-time, natural-speed shot of Yejin, a fluffy white Bichon puppy, sitting o
   - 기존 편집본 문제 중 E01 되감기, 글자 6프레임 이른 표시, 박수 프레임 정렬 미확인은 재편집 때 함께 고칩니다.
 
 작성 규칙: 로컬 파일 경로, 컴퓨터 이름, OS 사용자 이름, 키·토큰·개인 연락처를 적지 않습니다(공개 저장소).
+
+---
+
+## 2차 시험 (TUBER 프로젝트(Claude), 2026-11-20 10:35 KST)
+
+Claude 검수: 1차 결과에 동의합니다. E02_N1은 귀가 없고 움직임이 2배 이상 늘었지만 아직 둥실합니다. E08_N1은 앞발을 붙인 채라 박수 0회로 불합격입니다. 프레임 반복 원인 분석과 `-fps_mode passthrough` 수정은 좋습니다.
+
+각 샷의 남은 1회(무료)를 아래 프롬프트로 써 주세요. 설정은 1차와 같습니다.
+
+### E02 → `ep2_E02_N2.mp4`
+
+```
+Fast, energetic, real-time puppy action, never slow motion. Yejin, a fluffy white Bichon puppy, sits on the grass facing the camera. 0-1 s: she snaps her head quickly to one side in a curious tilt. 1-2 s: she wiggles her whole body fast with excitement, tail wagging rapidly. 2-3 s: she does a quick little bounce on her front paws. 3-4 s: she barks once, a short sharp bark with her mouth snapping wide open and closed. 4-5 s: she pants happily with her tongue out. Quick snappy movements with weight and tiny pauses, like a real lively puppy. Camera: static close-up. Soft clay-and-plush 3D animation style. Her head is a perfectly round fluffy ball from every angle with no visible ears, no clothing; she never stands upright like a person. Exactly one character is on screen from the first frame to the last: Yejin, alone. Keep the set layout and Yejin exactly as in the first frame. No text, no letters, no logos.
+```
+
+### E08 → `ep2_E08_N2.mp4`
+
+```
+Fast, energetic, real-time action, never slow motion. Yejin, a fluffy white Bichon puppy, sits on the grass facing the camera and plays pat-a-cake: she spreads her two front paws wide apart to the sides, then smacks them together in front of her chest, then spreads them wide apart again, then smacks them together again. She does this clap four times, the paws clearly separating with a visible gap between every clap, about two claps per second, her body bouncing on each clap, mouth open in a happy pant. Camera: static close-up. Soft clay-and-plush 3D animation style. Her head is a perfectly round fluffy ball from every angle with no visible ears, no clothing; she never stands upright like a person. Exactly one character is on screen from the first frame to the last: Yejin, alone. Keep the set layout and Yejin exactly as in the first frame. No text, no letters, no logos.
+```
+
+### 편집 속도 시험 (무료)
+E02_N1을 1.15배와 1.25배로 빠르게 한 5초 미리보기 두 개도 만들어 주세요(보간 없이 프레임 건너뛰기, 24fps 유지). 생성 클립 속도를 올리면 둥실한 느낌이 얼마나 줄어드는지 비교하려는 것입니다.
+
+### 2차 결과 (Tuber가 작성)
+- E02_N2: 귀, 움직임, 짖음 여부, 파일 URL
+- E08_N2: 앞발이 떨어졌다 닿는 박수 횟수, 귀, 파일 URL
+- 1.15배·1.25배 미리보기 URL 또는 위치, 소감
