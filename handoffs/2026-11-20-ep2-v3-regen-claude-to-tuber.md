@@ -52,8 +52,9 @@
 | E18 B | ep2_E18_B3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_041601_f9ca7208-1822-4fc0-93b5-0e45e194a194.mp4 | 통과. 박수 7~8회, A보다 빠름 |
 | E17 A | ep2_E17_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_044002_4e8e0c47-0a91-427b-9969-b328411b823c.mp4 | 통과. 고개 기울임, 끄덕임, 큰 웃음 |
 | E17 B | ep2_E17_B3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_044459_ea9a3027-b101-43e7-a889-fd9f467ed1b7.mp4 | 통과 |
+| E16 A | ep2_E16_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_073940_f8852048-d2a7-4395-9f78-0b4b2934f2ea.mp4 | 통과(2차). 큰 첨벙 대신 물결 |
 
-(계속 추가됩니다: E16, E15, E14, E13)
+(계속 추가됩니다: E15, E14, E13, E12, E11 A/B, E10, E09 A/B)
 
 ## 결과
 
