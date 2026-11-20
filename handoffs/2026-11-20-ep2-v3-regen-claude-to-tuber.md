@@ -57,8 +57,10 @@
 | E14 A | ep2_E14_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_084757_7d3d16e7-4f50-4633-be45-dbc0932265a8.mp4 | 통과. 무대에서 위아래로 통통, 끝에 앞발 들기 |
 | E13 A | ep2_E13_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_085804_a48a766d-a3c7-44d9-9115-34fa7b6e3034.mp4 | 통과. 박수 4~5회, 분홍 발바닥 보임 |
 | E12 A | ep2_E12_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_091136_09927079-dfd4-4a97-bcea-297dea9f2a15.mp4 | 통과. 서로 앞발-날개 맞부딪치기 4회, 1.25초 주기(1.25배면 1.0초=2박). 3절 슬롯(박수 2번)은 첫 박수 소리에 닿는 프레임을 맞추고, 둘째 박수는 별 아이콘 팝으로 강조 |
+| E11 A | ep2_E11_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_092417_d7ccf3ae-5701-4f06-a0b0-d254c623938d.mp4 | 통과. 제자리 탭 3회 후 올려다봄 |
+| E11 B | ep2_E11_B3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_093645_4947bbb2-3531-4392-9094-493279abf204.mp4 | 통과(더 좋음). 건반 따라 탭 약 5회, 꼬리 흔들기 |
 
-(계속 추가됩니다: E11 A/B, E10, E09 A/B)
+(계속 추가됩니다: E10, E09 A/B)
 
 ## 결과
 
