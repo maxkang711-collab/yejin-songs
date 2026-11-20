@@ -61,8 +61,8 @@
 | E11 B | ep2_E11_B3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_093645_4947bbb2-3531-4392-9094-493279abf204.mp4 | 통과(더 좋음). 건반 따라 탭 약 5회, 꼬리 흔들기 |
 | E10 A | ep2_E10_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_094953_9699aa75-a3e2-4128-9f9b-f962ddb4562b.mp4 | 통과. Pip 약 4회 통통(카드는 2회), 예진 웃으며 통통. 귀 없음 |
 | E09 A | ep2_E09_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_100312_d553c1ce-347d-487c-a84b-f425ad6f4839.mp4 | 통과. Pip 혼자, 또렷이 벌렸다 치는 날개 박수 약 5회 |
+| E09 B | ep2_E09_B3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_102457_ec1c0d66-8ef3-4363-8c57-26a8daf28dd3.mp4 | 통과(2차). 날개 박수 약 4회, 더 가까운 클로즈업, 날개 폭은 A보다 작음. **A가 더 좋음, 기본은 A** |
 
-- E09 B 1차는 박수 2회 후 날개가 가슴 앞에 머물러 불합격. 무료 재시도 중이며, 나오면 추가합니다. **E09 A로 충분하므로 편집을 기다리지 말고 시작하세요.** E09 B가 나중에 오면 박수 슬롯에서 더 잘 맞는 쪽으로 바꿔 끼우면 됩니다.
 - 브라우저 담당 생성 완료 (크레딧 0).
 
 ## 결과
