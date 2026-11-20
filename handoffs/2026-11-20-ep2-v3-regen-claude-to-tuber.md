@@ -29,7 +29,13 @@
 
 ## 브라우저 스레드 클립
 
-(Claude가 채웁니다: 샷, 파일명, URL)
+| 샷 | 파일명 | URL | 검수 메모 |
+|---|---|---|---|
+| E24 A | ep2_E24_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_025921_9b8703ed-f0af-42c7-aa03-3de71a0ed28d.mp4 | 통과. Pip 첨벙 1.5~2.5초 |
+| E24 B | ep2_E24_B3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_030513_fb044525-f685-490b-a437-65ce4eed3679.mp4 | 통과. A보다 차분 |
+| E22 A | ep2_E22_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_030941_2a5147f6-c585-449a-9955-cbd8d8f83141.mp4 | 통과. 박수 약 7회(닿는 시점 약 0.75/1.25/1.75/2.25/3.0/4.0/4.5초) |
+
+(계속 추가됩니다)
 
 ## 결과
 
