@@ -60,7 +60,7 @@
 
 ## 결과
 
-(Tuber 작성, 2026-11-20 15:50 KST 중간 기록. 편집은 아직 안 함.)
+(Tuber 작성, 2026-11-20 18:10 KST 갱신. Tuber 담당 생성 끝. 편집은 아직 안 함.)
 
 모두 무료 Unlimited, 720p, 16:9, Seedance 2.5, 24fps, Rerun 안 씀, 크레딧 0. 검수: 0.5초 간격 전체 프레임(귀, 다른 캐릭터, 글자, 사람처럼 서기, 몸 녹음).
 
@@ -71,11 +71,19 @@
 | E02 B | ep2_E02_B3.mp4 | 13:09 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_040944_9aa776af-2d93-4919-be67-4f23b77f5914.mp4 | 통과. 121프레임. A보다 움직임 큼(몸·꼬리 흔들기), 짖기. 귀 없음 |
 | E08 A | ep2_E08_A3.mp4 (= E08_N2) | 10:42 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_014247_19d97936-ac71-479a-b190-f5a05cbc1691.mp4 | 13:45 Claude 판단대로 A로 사용. 박수 약 6~7회(약 0.67초 간격). 팔 약간 늘어남, 모을 때 발바닥 안 보임 |
 | E08 B 후보 | ep2_E08_B3.mp4 (= E08_N3) | 11:53 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_025318_07d0d180-a686-4def-b06d-b9b3ccfd1bdf.mp4 | 통과(실패 기준 없음). 박수 약 5회(6fps 기준, 약 1초 간격), 팔 늘어남 줄어듦, 모을 때 발바닥 안 보임. 편집에서 박수 소리와 맞는 구간만 사용 |
+| E03 A | ep2_E03_A3.mp4 | 14:54 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_055403_121ef6df-9d94-4182-be62-d95d57d34fd6.mp4 | 통과. 121프레임. 앞발로 제자리 통통, 몸 흔들기, 입 벌려 웃기. 귀 없음, 혼자 |
+| E04 A | ep2_E04_A3.mp4 | 16:44 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_074419_cb6036a2-a794-4767-b609-97c92291d1a0.mp4 | 통과. 121프레임. 집 앞에 앉아 끄덕, 별 반짝. 귀 없음, 혼자. 움직임은 작음 |
+| E04 B | ep2_E04_B3.mp4 | 16:48 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_074844_21eea2de-2d28-44c2-8518-4895c135be98.mp4 | 통과. 121프레임. A와 비슷, 별 반짝. 귀 없음, 혼자 |
+| E05 A | ep2_E05_A3.mp4 | 17:04 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_080442_e03fefe7-2834-4054-81eb-c9abd7ff212b.mp4 | 통과. 121프레임. 왼쪽에서 고개 돌려 카메라 보고 갸웃, 웃음. 귀 없음, 혼자 |
+| E06 A | ep2_E06_A3.mp4 (2차) | 18:03 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_090314_b7098276-5c0a-43a8-9d54-d38b70b9414a.mp4 | 통과(2차). 121프레임. Pip 돌다리로 다가오고 예진 일어나 꼬리 흔들며 Pip 쪽으로. 귀 없음. 1차(17:20, da17cf29)는 약 2초부터 처진 귀가 보여 사용 금지 |
+| E07 A | ep2_E07_A3.mp4 | 17:27 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_082709_4d16e9c8-4d02-4ee8-be20-785798ff9889.mp4 | 통과. 121프레임. 예진·Pip 서로 보고 카메라 보며 끄덕. 귀 없음 |
+| E07 B | ep2_E07_B3.mp4 | 17:36 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_083623_984d0b0f-6a32-4b39-b20e-e6d691935d18.mp4 | 통과. 121프레임. A와 다른 테이크(파일 다름). 귀 없음 |
 
 진행 상황과 특이 사항:
-- E03 A: 14:53 1차 제출은 몇 초 만에 실패(크레딧 환불, "Something went wrong"). 14:54 2차 제출은 15:27 기준 30분 넘게 Generating. 60분 넘게 멈추면 시간 초과 후 한 번만 다시 제출합니다.
-- 남은 것: E03, E04 A/B, E05, E06, E07 A/B, E08 B(N3가 편집에서 안 맞을 때만 추가 생성 예정).
-- E09~E12는 15:45 분담 조정대로 생성하지 않습니다.
-- 12:06~12:35, 14:09~14:46에는 계정에서 다른 작업이 계속 돌아 제출하지 못했습니다(대기만 함).
+- Tuber 담당(E01~E08) 생성 완료. E08 B는 편집에서 N3가 박수 소리와 안 맞을 때만 한 번 더 생성합니다.
+- E03: 14:53 1차는 몇 초 만에 실패(크레딧 환불). 14:54 2차가 약 1시간 걸려 완료.
+- E06: 1차 귀 문제로 같은 카드로 1회 재생성, 2차 통과.
+- E09~E12는 15:45 분담 조정대로 생성하지 않았습니다.
+- 편집은 브라우저 스레드의 E09~E13이 다 나오면 시작합니다.
 
 작성 규칙: 로컬 파일 경로, 컴퓨터 이름, OS 사용자 이름, 키·토큰·개인 연락처 금지(공개 저장소).
