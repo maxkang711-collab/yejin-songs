@@ -35,8 +35,16 @@
 | E24 A | ep2_E24_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_025921_9b8703ed-f0af-42c7-aa03-3de71a0ed28d.mp4 | 통과. Pip 첨벙 1.5~2.5초 |
 | E24 B | ep2_E24_B3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_030513_fb044525-f685-490b-a437-65ce4eed3679.mp4 | 통과. A보다 차분 |
 | E22 A | ep2_E22_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_030941_2a5147f6-c585-449a-9955-cbd8d8f83141.mp4 | 통과. 박수 약 7회(닿는 시점 약 0.75/1.25/1.75/2.25/3.0/4.0/4.5초) |
+| E22 B | ep2_E22_B3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_032806_31b58a18-8f94-4e29-9d9d-dfef4e8e0e86.mp4 | 통과(2차). 박수 6~7회, Pip과 맞음. 1차 실패본은 쓰지 않음 |
+| E23 A | ep2_E23_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_032143_ab69c14f-ef3c-4391-80b6-15990d4c00a4.mp4 | 통과. 10초, 약 4.5초부터 카메라 빠짐 |
+| E21 A | ep2_E21_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_033433_77ee808a-5ada-41b7-90be-f41a2db59952.mp4 | 통과(메모). 약 2.0초 방울 터짐, 코 닿는 순간은 흐림 |
+| E21 B | ep2_E21_B3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_033934_0d2fa957-dcf2-4321-ae75-3189f3f545bf.mp4 | 통과. 2.5~3.0초 방울 터짐(더 선명), 이후 앞발 통통 |
+| E20 A | ep2_E20_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_035119_39da80fa-baf4-43d1-980c-325a9253a205.mp4 | 통과. 0~2초 작은 점프, 이후 끄덕 2회 |
+| E19 A | ep2_E19_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_043316_859a6452-bbe1-4083-92d4-6088b588a437.mp4 | 통과(2차). 1차는 귀 문제로 사용 금지 |
+| E18 A | ep2_E18_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_040018_b6986e3f-2392-49df-9526-d8a15389e3a0.mp4 | 통과. 박수 5회, 약 1초 간격 |
+| E18 B | ep2_E18_B3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_041601_f9ca7208-1822-4fc0-93b5-0e45e194a194.mp4 | 통과. 박수 7~8회, A보다 빠름 |
 
-(계속 추가됩니다)
+(계속 추가됩니다: E17 A/B, E16, E15, E14, E13)
 
 ## 결과
 
