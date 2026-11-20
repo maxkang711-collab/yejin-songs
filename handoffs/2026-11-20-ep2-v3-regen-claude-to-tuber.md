@@ -57,6 +57,22 @@
 
 ## 결과
 
-(Tuber 작성: 생성 회수와 실패 기록, 출력 파일 위치, 사양, 프레임 반복 0 확인, 박수 정렬 결과, 특이 사항)
+(Tuber 작성, 2026-11-20 15:50 KST 중간 기록. 편집은 아직 안 함.)
+
+모두 무료 Unlimited, 720p, 16:9, Seedance 2.5, 24fps, Rerun 안 씀, 크레딧 0. 검수: 0.5초 간격 전체 프레임(귀, 다른 캐릭터, 글자, 사람처럼 서기, 몸 녹음).
+
+| 샷 | 파일명 | 제출(KST) | URL | 검수 메모 |
+|---|---|---|---|---|
+| E01 A | ep2_E01_A3.mp4 | 12:44 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_034458_f490b805-504f-465a-9edb-f46ec4c28245.mp4 | 통과. 10.04초(241프레임). 집 문에서 고개 내밀고 네 발로 걸어 나와 앉아 헥헥, 끝에 밀기. 귀 없음, 혼자 |
+| E02 A | ep2_E02_A3.mp4 | 13:04 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_040421_eddbfb6e-42c9-43e2-ac22-3f1ce8b34487.mp4 | 통과. 121프레임. 고개 갸웃, 입 크게 벌려 짖기, 헥헥. 귀 없음 |
+| E02 B | ep2_E02_B3.mp4 | 13:09 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_040944_9aa776af-2d93-4919-be67-4f23b77f5914.mp4 | 통과. 121프레임. A보다 움직임 큼(몸·꼬리 흔들기), 짖기. 귀 없음 |
+| E08 A | ep2_E08_A3.mp4 (= E08_N2) | 10:42 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_014247_19d97936-ac71-479a-b190-f5a05cbc1691.mp4 | 13:45 Claude 판단대로 A로 사용. 박수 약 6~7회(약 0.67초 간격). 팔 약간 늘어남, 모을 때 발바닥 안 보임 |
+| E08 B 후보 | ep2_E08_B3.mp4 (= E08_N3) | 11:53 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_025318_07d0d180-a686-4def-b06d-b9b3ccfd1bdf.mp4 | 통과(실패 기준 없음). 박수 약 5회(6fps 기준, 약 1초 간격), 팔 늘어남 줄어듦, 모을 때 발바닥 안 보임. 편집에서 박수 소리와 맞는 구간만 사용 |
+
+진행 상황과 특이 사항:
+- E03 A: 14:53 1차 제출은 몇 초 만에 실패(크레딧 환불, "Something went wrong"). 14:54 2차 제출은 15:27 기준 30분 넘게 Generating. 60분 넘게 멈추면 시간 초과 후 한 번만 다시 제출합니다.
+- 남은 것: E03, E04 A/B, E05, E06, E07 A/B, E08 B(N3가 편집에서 안 맞을 때만 추가 생성 예정).
+- E09~E12는 15:45 분담 조정대로 생성하지 않습니다.
+- 12:06~12:35, 14:09~14:46에는 계정에서 다른 작업이 계속 돌아 제출하지 못했습니다(대기만 함).
 
 작성 규칙: 로컬 파일 경로, 컴퓨터 이름, OS 사용자 이름, 키·토큰·개인 연락처 금지(공개 저장소).
