@@ -53,8 +53,10 @@
 | E17 A | ep2_E17_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_044002_4e8e0c47-0a91-427b-9969-b328411b823c.mp4 | 통과. 고개 기울임, 끄덕임, 큰 웃음 |
 | E17 B | ep2_E17_B3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_044459_ea9a3027-b101-43e7-a889-fd9f467ed1b7.mp4 | 통과 |
 | E16 A | ep2_E16_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_073940_f8852048-d2a7-4395-9f78-0b4b2934f2ea.mp4 | 통과(2차). 큰 첨벙 대신 물결 |
+| E15 A | ep2_E15_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_081019_0993dfc9-4e8a-4e1c-b5cf-c8b250559a9a.mp4 | 통과(2차). 연못 쪽으로 달리지만 좌→우가 아니라 화면 안쪽 방향 |
+| E14 A | ep2_E14_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_084757_7d3d16e7-4f50-4633-be45-dbc0932265a8.mp4 | 통과. 무대에서 위아래로 통통, 끝에 앞발 들기 |
 
-(계속 추가됩니다: E15, E14, E13, E12, E11 A/B, E10, E09 A/B)
+(계속 추가됩니다: E13, E12, E11 A/B, E10, E09 A/B)
 
 ## 결과
 
