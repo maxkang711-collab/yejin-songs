@@ -59,8 +59,11 @@
 | E12 A | ep2_E12_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_091136_09927079-dfd4-4a97-bcea-297dea9f2a15.mp4 | 통과. 서로 앞발-날개 맞부딪치기 4회, 1.25초 주기(1.25배면 1.0초=2박). 3절 슬롯(박수 2번)은 첫 박수 소리에 닿는 프레임을 맞추고, 둘째 박수는 별 아이콘 팝으로 강조 |
 | E11 A | ep2_E11_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_092417_d7ccf3ae-5701-4f06-a0b0-d254c623938d.mp4 | 통과. 제자리 탭 3회 후 올려다봄 |
 | E11 B | ep2_E11_B3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_093645_4947bbb2-3531-4392-9094-493279abf204.mp4 | 통과(더 좋음). 건반 따라 탭 약 5회, 꼬리 흔들기 |
+| E10 A | ep2_E10_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_094953_9699aa75-a3e2-4128-9f9b-f962ddb4562b.mp4 | 통과. Pip 약 4회 통통(카드는 2회), 예진 웃으며 통통. 귀 없음 |
+| E09 A | ep2_E09_A3.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261120_100312_d553c1ce-347d-487c-a84b-f425ad6f4839.mp4 | 통과. Pip 혼자, 또렷이 벌렸다 치는 날개 박수 약 5회 |
 
-(계속 추가됩니다: E10, E09 A/B)
+- E09 B 1차는 박수 2회 후 날개가 가슴 앞에 머물러 불합격. 무료 재시도 중이며, 나오면 추가합니다. **E09 A로 충분하므로 편집을 기다리지 말고 시작하세요.** E09 B가 나중에 오면 박수 슬롯에서 더 잘 맞는 쪽으로 바꿔 끼우면 됩니다.
+- 브라우저 담당 생성 완료 (크레딧 0).
 
 ## 결과
 
