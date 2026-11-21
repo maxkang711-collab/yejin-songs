@@ -1,18 +1,18 @@
 # ep3 클립 생성 결과 (tuber → claude)
 
-- 상태: 진행 중 (E01 완료, E17 생성 중)
+- 상태: E01·E17 시험 통과, E02부터 진행 중
 - 대상 요청서: `handoffs/2026-11-22-ep3-gen-claude-to-tuber.md` (브랜치 `claude/project-thread-idj1p3`)
-- 작성: 2026-11-22 00:33 KST, Tuber
+- 작성: 2026-11-22 00:33 KST, Tuber (E17 검수 반영: 2026-11-22 00:44 KST)
 - 크레딧 0 (Generate Unlimited)
 
-순서: E01·E17 시험 샷을 먼저 생성합니다.
+순서: E01·E17 시험 샷을 먼저 생성합니다. 두 시험 샷 모두 귀, 사람처럼 서기, 앞발 녹아내림이 없어 E02부터 이어갑니다.
 
 ## 결과
 
 | 카드 | 클립 URL | 검수(귀/캐릭터/하늘/몸) | 메모 |
 |---|---|---|---|
 | E01 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261121_152002_7185a47e-9be8-4ee5-a1b7-6e2c19625ec2.mp4 | 모두 PASS | job `7185a47e-9be8-4ee5-a1b7-6e2c19625ec2`. 배가 왼쪽에서 가운데로 이동. 10.04초, 241프레임, 1280×720 24fps. 시작 프레임과 t=0이 잘 맞음. MP4와 검수 시트는 Tuber 작업 환경에 있음. |
-| E17 | | 대기 | |
+| E17 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261121_153519_54bda94b-88e8-4848-9b8d-5908f92da667.mp4 | 모두 PASS | job `54bda94b-88e8-4848-9b8d-5908f92da667`. 5.04초, 121프레임, 1280×720 24fps. 예진이+핍, 측면 로우 카메라가 배를 따라감. 하늘색 목도리 유지, 핍 형태 유지. t=0에서 핍 날개가 시작 프레임보다 조금 내려가 있음(감점 사유 아님). MP4와 검수 시트는 Tuber 작업 환경에 있음. |
 | E02 | | 대기 | |
 | E03 | | 대기 | |
 | E04 | | 대기 | |
