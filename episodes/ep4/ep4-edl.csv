@@ -1,0 +1,26 @@
+slot,start_s,end_s,length_s,clip,gen_len_s,section,lyric_or_action,angle
+01,0.00,7.61,7.61,E01,10,Intro,"(ukulele, happy baa) / Yejin trots into the clover meadow, the little lamb bounces up beside her",WIDE front eye level
+02,7.61,10.92,3.32,E02,5,V1,"Yejin had a little lamb / side by side, Yejin looks at the lamb, both smile at camera",MED 2S front
+03,10.92,14.24,3.32,E03,5,V1,"Little lamb, little lamb / the lamb bounces on the spot, fleece jiggling",CU lamb 3/4 from right
+04,14.24,17.57,3.32,E04,5,V1,"Yejin had a little lamb / Yejin nuzzles the lamb's fleece, tail wagging",MED 2S side from left
+05,17.57,20.89,3.32,E05,5,V1,"Its fleece was white as snow / the lamb shakes her fleece, white fluff puffs out",CU lamb low angle
+06,20.89,24.20,3.32,E06,5,V2,"Fluffy Yejin, fluffy lamb / two white puffballs sit side by side on the grass",WIDE low angle
+07,24.20,27.52,3.32,E07,5,V2,"Fluffy lamb, fluffy lamb / the lamb twirls around once",MED lamb high 3/4
+08,27.52,30.84,3.32,E08,5,V2,"Two white puffballs, side by side / both roll onto their backs side by side, wiggling",TOP-DOWN
+09,30.84,34.15,3.31,E09,5,V2,"Who is who? We don't know / both peek out from behind a round bush, tilting heads",MED 2S front (bush)
+10,34.15,37.46,3.31,E10,5,V3,They went hopping through the grass / both hop left to right through tall clover,MED tracking side
+11,37.46,40.78,3.32,E11,5,V3,"Through the grass, through the grass / they hop toward and past a ground-level camera",LOW ground level
+12,40.78,44.09,3.32,E12,5,V3,Hop hop hop and baa baa baa / the lamb hops three times and baas,CU lamb front
+13,44.09,47.41,3.31,E13,5,V3,"Woof woof, here we go / Yejin barks twice and springs forward",CU Yejin low angle
+14,47.41,54.05,6.64,E14,10,Break,chase game around the big round tree,WIDE high angle
+15,54.05,57.37,3.32,E15,5,Break,Pip waddles out from the reeds to the puddle and flaps,MED Pip side
+16,57.37,60.69,3.32,E16,5,Break,Yejin and the lamb turn and run toward Pip,MED 2S rear 3/4
+17,60.69,64.00,3.32,E17,5,V4,"Pip came flapping, quack quack quack / Pip flaps and waddles toward them",MED 3S 3/4 from left
+18,64.00,67.32,3.32,E18,5,V4,"Quack quack quack x2 / Pip quacks with open beak, flapping",CU Pip front
+19,67.32,70.64,3.32,E19,5,V4,"Three good friends all in a row / three friends sit in a row, bob to the beat",WIDE front
+20,70.64,73.95,3.32,E20,5,V4,"Splashing in the puddle, oh / they jump into the puddle, big splash",LOW water level
+21,73.95,77.27,3.32,E21,5,V5,When it's time to have a nap / Yejin yawns big,CU Yejin 3/4 from left
+22,77.27,80.59,3.32,E22,5,V5,"Have a nap, have a nap / the lamb curls up in the shade of the tree",WIDE tree side
+23,80.59,83.90,3.31,E23,5,V5,Yejin hugs her little lamb / Yejin snuggles against the lamb,MED 2S high angle
+24,83.90,87.22,3.31,E24,5,V5,"Night night, nice and slow / eyes close, Pip nestles beside them",CU 3S front
+25,87.22,94.72,7.50,E25,10,Outro,"Yejin opens one eye and waves at the camera, camera pulls back over the meadow",WIDE pull-out
