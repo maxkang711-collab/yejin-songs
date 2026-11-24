@@ -1,6 +1,6 @@
 # 4화 생성 팩: «Yejin Had a Little Lamb» (TUBER 프로젝트(Claude))
 
-작성: 2026-11-22 KST. 곡: Suno ca0003f1(«Mary Had a Little Lamb» 전래 멜로디, 예진이 개사판). 시작 프레임은 Higgsfield 웹 GPT Image 2.6 Unlimited로 0크레딧 생성 후 Claude가 검수하여 아래 URL을 채웁니다.
+작성: 2026-11-22 KST. 곡: Suno ca0003f1(«Mary Had a Little Lamb» 전래 멜로디, 예진이 개사판). 시작 프레임 25장은 2026-11-23 Higgsfield 웹 GPT Image 2.6 Unlimited로 0크레딧 생성, Claude 검수 통과(목록: `ep4-startframes.json`, 라인업 L00 포함).
 
 ## 공통 규칙
 
@@ -17,7 +17,7 @@
 
 ### E01 · WIDE front eye level · 10초 · 슬롯 01 (0.00–7.61초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_101800_66dfc1fc-f0a2-493c-b0b1-6ae5fc9763f6.png
 - 파일명: `ep4_E01_A.mp4`
 
 ```
@@ -26,7 +26,7 @@ Real-time, natural-speed action, never slow motion. Yejin trots on all four legs
 
 ### E02 · MED 2S front · 5초 · 슬롯 02 (7.61–10.92초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_101841_13aeaa20-440f-48c5-91cd-2bd551df4087.png
 - 파일명: `ep4_E02_A.mp4`
 
 ```
@@ -35,7 +35,7 @@ Real-time, natural-speed action, never slow motion. Yejin turns to the lamb, the
 
 ### E03 · CU lamb 3/4 from right · 5초 · 슬롯 03 (10.92–14.24초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_101910_af187366-5070-4554-b6ee-20aa0b100951.png
 - 파일명: `ep4_E03_A.mp4`
 
 ```
@@ -44,7 +44,7 @@ Real-time, natural-speed action, never slow motion. The lamb bounces on the spot
 
 ### E04 · MED 2S side from left · 5초 · 슬롯 04 (14.24–17.57초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_103645_efade53f-4b82-485c-926c-2493f02ce5b5.png
 - 파일명: `ep4_E04_A.mp4`
 
 ```
@@ -53,7 +53,7 @@ Real-time, natural-speed action, never slow motion. Yejin nuzzles into the lamb'
 
 ### E05 · CU lamb low angle · 5초 · 슬롯 05 (17.57–20.89초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_102042_e1881cb9-5f6e-4f94-8e3b-c6f7e61a258c.png
 - 파일명: `ep4_E05_A.mp4`
 
 ```
@@ -62,7 +62,7 @@ Real-time, natural-speed action, never slow motion. The lamb shakes her whole bo
 
 ### E06 · WIDE low angle · 5초 · 슬롯 06 (20.89–24.20초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_102128_fe4a5ad5-45b1-4932-b869-4a0c54492078.png
 - 파일명: `ep4_E06_A.mp4`
 
 ```
@@ -71,7 +71,7 @@ Real-time, natural-speed action, never slow motion. Both sit side by side and sw
 
 ### E07 · MED lamb high 3/4 · 5초 · 슬롯 07 (24.20–27.52초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_102214_158f539b-50e9-4057-82e5-6ab9f4f14780.png
 - 파일명: `ep4_E07_A.mp4`
 
 ```
@@ -80,7 +80,7 @@ Real-time, natural-speed action, never slow motion. The lamb twirls around once 
 
 ### E08 · TOP-DOWN · 5초 · 슬롯 08 (27.52–30.84초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_102250_c884271a-ab70-4c06-9d1c-676866a2ae67.png
 - 파일명: `ep4_E08_A.mp4`
 
 ```
@@ -89,7 +89,7 @@ Real-time, natural-speed action, never slow motion. Both wiggle on their backs i
 
 ### E09 · MED 2S front (bush) · 5초 · 슬롯 09 (30.84–34.15초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_102437_5ef02960-d36b-4eef-91be-49da4d5b66fd.png
 - 파일명: `ep4_E09_A.mp4`
 
 ```
@@ -98,7 +98,7 @@ Real-time, natural-speed action, never slow motion. Both pop their heads out fro
 
 ### E10 · MED tracking side · 5초 · 슬롯 10 (34.15–37.46초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_102512_2d702ef4-1e9e-432c-b66f-7bbeff11e4df.png
 - 파일명: `ep4_E10_A.mp4`
 
 ```
@@ -107,7 +107,7 @@ Real-time, natural-speed action, never slow motion. Both hop quickly from left t
 
 ### E11 · LOW ground level · 5초 · 슬롯 11 (37.46–40.78초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_102552_9d0c2722-863d-4344-992a-32c4f25e6d7b.png
 - 파일명: `ep4_E11_A.mp4`
 
 ```
@@ -116,7 +116,7 @@ Real-time, natural-speed action, never slow motion. Both hop quickly toward the 
 
 ### E12 · CU lamb front · 5초 · 슬롯 12 (40.78–44.09초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_102623_1b13033f-808f-4aea-9b72-1135e6863dfd.png
 - 파일명: `ep4_E12_A.mp4`
 
 ```
@@ -125,7 +125,7 @@ Real-time, natural-speed action, never slow motion. The lamb hops three quick ti
 
 ### E13 · CU Yejin low angle · 5초 · 슬롯 13 (44.09–47.41초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_102703_e60cc9de-38da-43da-9cf9-6bedd3439923.png
 - 파일명: `ep4_E13_A.mp4`
 
 ```
@@ -134,7 +134,7 @@ Real-time, natural-speed action, never slow motion. Yejin barks twice in quick s
 
 ### E14 · WIDE high angle · 10초 · 슬롯 14 (47.41–54.05초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_103602_7ae52c56-b310-4cca-bbfd-50a07ebdd7ed.png
 - 파일명: `ep4_E14_A.mp4`
 
 ```
@@ -143,7 +143,7 @@ Real-time, natural-speed action, never slow motion. Yejin and the lamb play chas
 
 ### E15 · MED Pip side · 5초 · 슬롯 15 (54.05–57.37초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_102823_2ea138e2-7615-43e9-885b-71893b14b5e6.png
 - 파일명: `ep4_E15_A.mp4`
 
 ```
@@ -152,7 +152,7 @@ Real-time, natural-speed action, never slow motion. Pip waddles quickly out of t
 
 ### E16 · MED 2S rear 3/4 · 5초 · 슬롯 16 (57.37–60.69초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_102857_e5231d34-bb93-4b8b-8f77-ccf11c9571d0.png
 - 파일명: `ep4_E16_A.mp4`
 
 ```
@@ -161,7 +161,7 @@ Real-time, natural-speed action, never slow motion. Yejin and the lamb turn thei
 
 ### E17 · MED 3S 3/4 from left · 5초 · 슬롯 17 (60.69–64.00초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_102951_f33ff43d-3cb1-4184-9eca-673b482b99ac.png
 - 파일명: `ep4_E17_A.mp4`
 
 ```
@@ -170,7 +170,7 @@ Real-time, natural-speed action, never slow motion. Pip waddles to them flapping
 
 ### E18 · CU Pip front · 5초 · 슬롯 18 (64.00–67.32초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_103025_7c38b92e-9dab-4800-8a1f-bc6d39e6d8bb.png
 - 파일명: `ep4_E18_A.mp4`
 
 ```
@@ -179,7 +179,7 @@ Real-time, natural-speed action, never slow motion. Pip quacks six quick times w
 
 ### E19 · WIDE front · 5초 · 슬롯 19 (67.32–70.64초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_103104_6fb44d17-d2d9-42d7-a3f5-a840a56c6f92.png
 - 파일명: `ep4_E19_A.mp4`
 
 ```
@@ -188,7 +188,7 @@ Real-time, natural-speed action, never slow motion. All three bob their heads to
 
 ### E20 · LOW water level · 5초 · 슬롯 20 (70.64–73.95초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_103143_afb34385-7c46-4ed3-ad7b-717fda38243a.png
 - 파일명: `ep4_E20_A.mp4`
 
 ```
@@ -197,7 +197,7 @@ Real-time, natural-speed action, never slow motion. All three hop into the shall
 
 ### E21 · CU Yejin 3/4 from left · 5초 · 슬롯 21 (73.95–77.27초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_103224_72a4c168-d175-4900-af5b-393ffb6c1e5b.png
 - 파일명: `ep4_E21_A.mp4`
 
 ```
@@ -206,7 +206,7 @@ Real-time, natural-speed action, never slow motion. Yejin gives one big wide yaw
 
 ### E22 · WIDE tree side · 5초 · 슬롯 22 (77.27–80.59초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_103301_33d09b56-3550-4117-b5db-5f9ddab76c37.png
 - 파일명: `ep4_E22_A.mp4`
 
 ```
@@ -215,7 +215,7 @@ Real-time, natural-speed action, never slow motion. The lamb turns around once o
 
 ### E23 · MED 2S high angle · 5초 · 슬롯 23 (80.59–83.90초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_103357_c0ffb21c-8b48-4f76-9074-5a8d68bf4e08.png
 - 파일명: `ep4_E23_A.mp4`
 
 ```
@@ -224,7 +224,7 @@ Real-time, natural-speed action, never slow motion. Yejin snuggles in close agai
 
 ### E24 · CU 3S front · 5초 · 슬롯 24 (83.90–87.22초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_103429_aedd439e-d8b5-412a-bbce-9b1185a3d362.png
 - 파일명: `ep4_E24_A.mp4`
 
 ```
@@ -233,7 +233,7 @@ Real-time, natural-speed action, never slow motion. Pip nestles in closer, all t
 
 ### E25 · WIDE pull-out · 10초 · 슬롯 25 (87.22–94.72초)
 
-- 시작 프레임: (생성·검수 후 기입)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261123_103516_c04612ee-23b1-4a64-98b7-8887f4cfbd82.png
 - 파일명: `ep4_E25_A.mp4`
 
 ```
