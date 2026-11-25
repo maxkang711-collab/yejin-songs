@@ -38,7 +38,7 @@
 
 ### F01 · PLAYROOM · WIDE front · 10초 · 타임라인 0.00–7.70초
 
-- 시작 프레임: (P00 승인 후 채움)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_050939_868205c2-f48a-429f-a9cc-f19c6aabbd1d.png
 - 파일명: `ep1v3_F01_A.mp4`
 
 ```
@@ -47,7 +47,7 @@ Real-time, natural-speed action, never slow motion. Yejin trots quickly on all f
 
 ### F02 · PLAYROOM · MED 3/4 from left · 10초 · 타임라인 7.70–12.80초
 
-- 시작 프레임: (P00 승인 후 채움)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_051048_43373646-f926-4b00-83c5-b77970845530.png
 - 파일명: `ep1v3_F02_A.mp4`
 
 ```
@@ -56,7 +56,7 @@ Real-time, natural-speed action, never slow motion. Yejin sits facing the camera
 
 ### F03 · PLAYROOM · CU 3/4 from right · 10초 · 타임라인 12.80–17.70초
 
-- 시작 프레임: (P00 승인 후 채움)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_051321_c1da3aa9-9731-4b0d-8ad0-1c23516a47cf.png
 - 파일명: `ep1v3_F03_A.mp4`
 
 ```
@@ -65,7 +65,7 @@ Real-time, natural-speed action, never slow motion. Yejin claps to the beat: she
 
 ### F04 · MEADOW · WIDE front · 5초 · 타임라인 17.70–22.52초
 
-- 시작 프레임: (P00 승인 후 채움)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_044006_5828bd3e-47e3-4925-8213-d8cdfb01bdc6.png
 - 파일명: `ep1v3_F04_A.mp4`
 
 ```
@@ -74,7 +74,7 @@ Real-time, natural-speed action, never slow motion. Yejin lands from the top of 
 
 ### F05 · MEADOW · WIDE side tracking L→R · 10초 · 타임라인 22.52–27.18초
 
-- 시작 프레임: (P00 승인 후 채움)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_044020_2833686d-5e9f-4da2-ace5-a8834a094790.png
 - 파일명: `ep1v3_F05_A.mp4`
 
 ```
@@ -83,7 +83,7 @@ Real-time, natural-speed action, never slow motion. Seen from the side, Yejin ho
 
 ### F06 · PLAYROOM · MED front · 5초 · 타임라인 27.18–31.92초
 
-- 시작 프레임: (P00 승인 후 채움)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_051416_d6741830-8da7-4f05-bda3-2a95d3df285f.png
 - 파일명: `ep1v3_F06_A.mp4`
 
 ```
@@ -92,7 +92,7 @@ Real-time, natural-speed action, never slow motion. Yejin bounces in place on th
 
 ### F07 · PLAYROOM · CU 3/4 from left · 5초 · 타임라인 31.92–36.96초
 
-- 시작 프레임: (P00 승인 후 채움)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_051509_0df37068-1a49-4c41-8312-453e7b4d3675.png
 - 파일명: `ep1v3_F07_A.mp4`
 
 ```
@@ -101,7 +101,7 @@ Real-time, natural-speed action, never slow motion. Yejin waves her right front 
 
 ### F08 · MEADOW · MED front · 5초 · 타임라인 36.96–41.70초
 
-- 시작 프레임: (P00 승인 후 채움)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_044036_b79faa1f-5e8d-4683-bf80-ec7afea36212.png
 - 파일명: `ep1v3_F08_A.mp4`
 
 ```
@@ -110,7 +110,7 @@ Real-time, natural-speed action, never slow motion. Yejin claps twice quickly (p
 
 ### F09 · PLAYROOM · MED side from right (stage) · 5초 · 타임라인 41.70–46.62초
 
-- 시작 프레임: (P00 승인 후 채움)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_051841_0ddb6c4c-9e31-4774-9083-89cd7bb67444.png
 - 파일명: `ep1v3_F09_A.mp4`
 
 ```
@@ -119,7 +119,7 @@ Real-time, natural-speed action, never slow motion. On the low wooden stage Yeji
 
 ### F10 · PLAYROOM · CU front (stage) · 5초 · 타임라인 46.62–51.66초
 
-- 시작 프레임: (P00 승인 후 채움)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_052205_e9ba03e3-dd1f-42bb-8f6c-77d1e97c4c18.png
 - 파일명: `ep1v3_F10_A.mp4`
 
 ```
@@ -128,7 +128,7 @@ Real-time, natural-speed action, never slow motion. Yejin sings happily, bobbing
 
 ### F11 · PLAYROOM · WIDE high 3/4 from left · 10초 · 타임라인 51.66–57.08초
 
-- 시작 프레임: (P00 승인 후 채움)
+- 시작 프레임: https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_052100_a9c03c69-e760-459f-8a62-7123ae0ec1bd.png
 - 파일명: `ep1v3_F11_A.mp4`
 
 ```
