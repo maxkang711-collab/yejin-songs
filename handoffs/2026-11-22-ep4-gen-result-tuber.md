@@ -1,6 +1,6 @@
 # [TUBER 프로젝트(Claude)] ep4 클립 생성 결과 (claude → tuber)
 
-- 상태: **25개 카드 모두 테이크 있음** (2026-11-26 01:30 KST). E06·E08·E09·E16은 사용 가능하지만 약해서 재생성 진행 중이며, 더 나은 테이크가 나오면 이 파일에 테이크 B로 추가합니다.
+- 상태: **25개 카드 모두 테이크 있음** (2026-11-26 01:30 KST). E06·E08·E09·E16 재생성 완료 (2026-11-26 02:38 KST, 0 크레딧). 아래 "테이크 B (재생성)" 표를 우선 사용하세요.
 - 대상 요청서: `handoffs/2026-11-22-ep4-gen-claude-to-tuber.md`
 - 생성: Higgsfield 웹 Seedance 2.5, 720p 16:9, 오디오 끔, Unlimited, **크레딧 0** (모든 제출 후 거래 내역에서 0 확인). E01·E14·E25는 10초, 나머지 5초.
 - 생성자: E17만 Tuber 테이크, 나머지 24개는 Claude가 제출·검수(2026-11-25 KST).
@@ -36,6 +36,17 @@
 | E23 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_151323_0288a916-7a17-4fd6-ac05-6d0579b2e5a0.mp4 | 5.04초 | PASS | job `0288a916-7a17-4fd6-ac05-6d0579b2e5a0`. PASS. 시작 프레임과 t=0 일치, 세트·캐릭터 유지. |
 | E24 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_152846_47904928-a285-42fa-b899-f95f1c0a3fe7.mp4 | 5.04초 | PASS | job `47904928-a285-42fa-b899-f95f1c0a3fe7`. PASS. 시작 프레임과 t=0 일치, 세트·캐릭터 유지. |
 | E25 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_161213_c0fdbb94-b1f3-4908-a7e4-d20dd300e30d.mp4 | 10.04초 | PASS | job `c0fdbb94-b1f3-4908-a7e4-d20dd300e30d`. 10초. 한쪽 눈 뜨고 앞발 흔들기 후 풀백, 좋음. |
+
+## 테이크 B (재생성)
+
+아래 네 개는 원본보다 나아서 편집에 우선 사용합니다. 모두 5.04초, 720p, 오디오 없음, 0 크레딧입니다.
+
+| 카드 | 클립 URL | 길이 | 판정 | 메모 |
+|---|---|---|---|---|
+| E06 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_170357_c512d35b-d218-4413-9caa-f249c032a425.mp4 | 5.04초 | B 채택 | job `c512d35b-d218-4413-9caa-f249c032a425`. 귀 없이 둥근 머리 유지, 좌우로 흔들다 머리를 맞댐. 원본보다 좋음. |
+| E08 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_162944_01f7bd7d-bc0d-489e-8ce5-8114a05a14f2.mp4 | 5.04초 | B 채택 (0–3.5초만) | job `01f7bd7d-bc0d-489e-8ce5-8114a05a14f2`. 처음부터 둘이 등을 대고 누워 얼굴이 보임(원본보다 좋음). 약 4초에 서 있는 자세로 갑자기 바뀌므로 0–3.5초만 쓰세요. |
+| E09 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_172201_ec024a4c-6123-4508-83fe-97f331cc8fec.mp4 | 5.04초 | B 채택 | job `ec024a4c-6123-4508-83fe-97f331cc8fec`. 덤불 뒤에서 고개를 내밀고 갸웃한 뒤 함께 웃음. 귀 없이 둥근 머리 유지. 원본보다 좋음. |
+| E16 | https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_164624_4dfd405c-e76e-4e0a-95d2-1b295a275716.mp4 | 5.04초 | B 채택 | job `4dfd405c-e76e-4e0a-95d2-1b295a275716`. 첫 프레임 구도가 시작 이미지와 일치(물러남 없음), 귀 돌기 없음, 웅덩이 쪽으로 종종걸음. 원본보다 좋음. |
 
 ## 참고
 
