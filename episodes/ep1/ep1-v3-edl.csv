@@ -1,0 +1,12 @@
+slot,timeline_start,timeline_end,length,card,set,shot,lyrics,cut_in_note
+F01,0.00,7.70,7.70,F01,PLAYROOM,WIDE front,(intro) Hi! I am Yejin. Come and sing with me.,episode start
+F02,7.70,12.80,5.10,F02,PLAYROOM,MED 3/4 from left,"Clap, clap, clap with Yejin. Clap, clap, clap with me.",cut on downbeat; first clap contact within 2 frames of 7.70
+F03,12.80,17.70,4.90,F03,PLAYROOM,CU 3/4 from right,"Clap, clap, clap with Yejin. Clap your hands with me.",ends on the spring-up hop leaving frame top
+F04,17.70,22.52,4.82,F04,MEADOW,WIDE front,"Hop, hop, hop with Yejin. Hop, hop, hop with me.",match on action: she drops into frame from top and lands on 17.70
+F05,22.52,27.18,4.66,F05,MEADOW,WIDE side tracking L to R,"Hop, hop, hop with Yejin. Hop your feet with me.",ends with her hopping out of frame right
+F06,27.18,31.92,4.74,F06,PLAYROOM,MED front,"Wave, wave, wave with Yejin. Wave, wave, wave with me.",screen direction: she bounds in from frame left
+F07,31.92,36.96,5.04,F07,PLAYROOM,CU 3/4 from left,"Wave, wave, wave with Yejin. Wave hello with me.",paw-pad hero shot
+F08,36.96,41.70,4.74,F08,MEADOW,MED front,"Clap, hop, wave with Yejin. Clap, hop, wave with me.",hard cut on downbeat (clearly different scene)
+F09,41.70,46.62,4.92,F09,PLAYROOM,MED side from right (stage),"Clap, hop, wave with Yejin. Sing along with me.",hard cut on downbeat (clearly different scene)
+F10,46.62,51.66,5.04,F10,PLAYROOM,CU front (stage),"Yejin, Yejin, sing with me.",
+F11,51.66,57.08,5.42,F11,PLAYROOM,WIDE high 3/4 from left,"Yejin, Yejin, sing with me. (outro)",last 0.4 s fade to black; no reverse playback
