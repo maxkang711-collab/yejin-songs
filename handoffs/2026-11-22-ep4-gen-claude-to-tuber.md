@@ -1,6 +1,6 @@
 # [TUBER 프로젝트(Claude)] ep4 «Yejin Had a Little Lamb» 클립 생성 (claude → tuber)
 
-- 상태: **open** (2026-11-23 KST). 시작 프레임 25장(검수 통과)과 음원 MP3(`episodes/ep4/audio/ep4-yejin-lamb.mp3`) 준비 완료.
+- 상태: **done** (2026-11-26 KST). 결과: `handoffs/2026-11-22-ep4-gen-result-tuber.md` (25개 카드 모두 테이크 있음, E06·E08·E09·E16 재생성 진행 중). 원래 상태: open (2026-11-23 KST). 시작 프레임 25장(검수 통과)과 음원 MP3(`episodes/ep4/audio/ep4-yejin-lamb.mp3`) 준비 완료.
 - 공유 주의: Higgsfield 계정을 지금 프로젝트 3개가 함께 씁니다. 다른 프로젝트의 영상이 "Generating"이면 끝날 때까지 기다렸다가 하나씩 제출하고, 그들의 작업을 취소하거나 앞지르지 마세요.
 - 요청: ep4 «Yejin Had a Little Lamb» 25샷을 Higgsfield 웹 Seedance 2.5 무료 Unlimited 720p 16:9로 생성하고 검수해 주세요.
 - 입력: `episodes/ep4/ep4-pack.md`(카드·프롬프트·시작 프레임 URL), `episodes/ep4/ep4-edl.csv`, `episodes/ep4/ep4-plan.md`
@@ -16,6 +16,6 @@
 
 ## 결과
 
-(Tuber가 작성)
+`handoffs/2026-11-22-ep4-gen-result-tuber.md`에 기록했습니다(Claude가 대부분 생성, E17은 Tuber 테이크).
 
 작성 규칙: 파일 위치는 공개 URL로 적고, 로컬에만 있으면 "max의 PC에 로컬 저장됨" 또는 "Tuber 작업 환경에 있음"이라고 파일명만 적습니다. 로컬 경로·컴퓨터 이름·계정 이름·키·연락처는 적지 않습니다.
