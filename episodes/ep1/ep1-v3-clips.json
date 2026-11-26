@@ -1,0 +1,68 @@
+{
+ "_note": "ep1 v3 clips. Seedance 2.5, website Unlimited, 720p, 16:9, no audio, 0 credits each. 'use' is the suggested source range in seconds for the slot in ep1-v3-edl.csv; adjust to the beat.",
+ "clips": {
+  "F01": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_054930_2b7634a0-2d3d-4ae4-8eb0-2a7d5ec83160.mp4",
+   "duration_s": 10,
+   "use": "0.00-7.70"
+  },
+  "F02": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_081010_8f910b79-692a-481a-94c1-1fea3259b579.mp4",
+   "duration_s": 10,
+   "use": "0.50-5.60"
+  },
+  "F03": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_081902_0cc3de02-3108-4da8-86dd-c69060918365.mp4",
+   "duration_s": 10,
+   "use": "5.12-10.02 (ends on the jump out of frame top)"
+  },
+  "F04": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_045016_90724028-6338-402d-8751-36c75338bf78.mp4",
+   "duration_s": 5,
+   "use": "0.00-4.82"
+  },
+  "F05": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_053011_8a91d692-66b5-4786-a9fc-1e468eeca7f0.mp4",
+   "duration_s": 10,
+   "use": "last 4.66 s, ending as she hops out of frame right"
+  },
+  "F06": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_064547_b00750b2-1cac-4518-b684-38b54f976a12.mp4",
+   "duration_s": 5,
+   "use": "0.00-4.74"
+  },
+  "F07": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_065713_5d1ba1b0-ac4d-4f16-a6f5-a9f323fa19ef.mp4",
+   "duration_s": 5,
+   "use": "0.00-5.04"
+  },
+  "F08": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_051800_9e79f932-ed49-4ccd-bb2b-b44e9617b96c.mp4",
+   "duration_s": 5,
+   "use": "0.00-4.74"
+  },
+  "F09": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_071355_886e71b1-b712-4e18-a872-eefa382ecb9d.mp4",
+   "duration_s": 5,
+   "use": "0.00-4.92"
+  },
+  "F10": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_072658_a8ca140b-0c20-40cf-93af-f92c7949842c.mp4",
+   "duration_s": 5,
+   "use": "0.00-5.04"
+  },
+  "F11": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_073818_090ed36e-4c34-4f62-90d2-0c8029889cbd.mp4",
+   "duration_s": 10,
+   "use": "4.60-10.02 (wave, then flop and roll onto her back)"
+  }
+ },
+ "alternates_not_for_edit": {
+  "F02_A": "https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_061339_75bd8699-deca-4b2b-bcc5-e2fd2fe76b7f.mp4",
+  "F03_A": "https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_062748_339808dc-f2a9-4cf3-84a7-d51eb53d314e.mp4",
+  "F03_B": "https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_075351_ffa69cb5-97f6-44ff-b68f-25300f214573.mp4"
+ },
+ "start_frame_changed": {
+  "F03": "https://d8j0ntlcm91z4.cloudfront.net/user_3IGHLfZvso3thtqxW8peHQWY54m/hf_20261125_081221_2935c3d0-2a2b-477c-b2ac-1befb78cc1ec.png"
+ }
+}
